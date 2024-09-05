@@ -24,7 +24,7 @@ CSS/Bootstrap	Styling for a sleek, responsive design
 Clone the Repository
 bash
 Copy code
-git clone https://github.com/oms6363-crypto/ChessSystem.git
+git clone [https://github.com/oms6363-crypto/ChessSystem](https://github.com/om6363-crypto/ChessSystem).git
 cd ChessMaster
 Backend Setup (.NET)
 Navigate to the API folder:
