@@ -63,6 +63,15 @@ npm start
 
 🔥 Screenshots
 Feature	Screenshot
+![Screenshot (190)](https://github.com/user-attachments/assets/eb89b1c9-9b77-48b7-9735-8a6a0fc1f01c)
+
+![Screenshot (191)](https://github.com/user-attachments/assets/4dccea8a-af85-4bb6-8c52-993f28812d06)
+
+![Screenshot (192)](https://github.com/user-attachments/assets/0ae6002f-5773-4d73-a01e-4ca853923821)
+
+![Screenshot (193)](https://github.com/user-attachments/assets/8cbee6c4-4aed-46dd-953c-ebcdcf0214e5)
+
+![Screenshot (194)](https://github.com/user-attachments/assets/5c0815fe-ba46-4f88-93ed-5a7893dc53a2)
 
 
 
@@ -73,8 +82,6 @@ We welcome contributions to this project! Please submit a pull request or open a
 Add detailed player match history
 Implement user authentication
 Enable sorting and filtering across more columns
+
 🏅 Contact
 For any inquiries, feel free to reach out via omsingh6363@gmail.com.
-
-⚖️ License
-This project is licensed under the MIT License. See the LICENSE file for details.
