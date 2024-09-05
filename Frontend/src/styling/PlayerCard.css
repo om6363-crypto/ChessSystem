@@ -1,0 +1,17 @@
+.player-card {
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    padding: 1rem;
+    margin: 1.5rem auto;
+    background-color: #f8f8f8;
+    max-width: 90%; 
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.player-card p {
+    margin: 0.5rem 0;
+}
+
+.player-card-container {
+    padding: 2rem;
+}

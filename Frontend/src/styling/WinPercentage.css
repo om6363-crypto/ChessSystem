@@ -1,0 +1,16 @@
+.player-card {
+    border: 2px solid #4caf50;
+    border-radius: 10px;
+    padding: 1rem;
+    margin-bottom: 1rem;
+    background-color: #e8f5e9;
+}
+
+.player-card p {
+    margin: 0.5rem 0;
+}
+
+.player-card p:first-of-type {
+    font-weight: bold;
+    font-size: 1.2rem;
+}

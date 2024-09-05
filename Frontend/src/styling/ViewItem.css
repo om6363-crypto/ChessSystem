@@ -1,0 +1,13 @@
+.view-item-container {
+    padding: 2rem;
+    background-color: #f7f7f7;
+    border-radius: 8px;
+    margin: 2rem auto;
+    max-width: 800px;
+}
+
+.view-item-container h1 {
+    margin-bottom: 1.5rem;
+    font-size: 2rem;
+    color: #333;
+}
